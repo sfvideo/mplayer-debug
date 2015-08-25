@@ -2,7 +2,7 @@
 
     mplayer -lavdopts vismv=1:debug=0x4000 ~/simpsons_movie_trailer.mp4
     
-![Simpsons Movie](https://github.com/sfvideo/mplayer-debug/simpsons.png)
+![Simpsons Movie](https://github.com/sfvideo/mplayer-debug/blob/master/simpsons.png)
 
 * Red Macroblocks: "I" encoded (You don't need a full "I Frame" to have Inter encoded data)
 * Green Macroblocks: "P" encoded (Forward Prediction)
