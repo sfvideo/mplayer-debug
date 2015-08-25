@@ -1,4 +1,4 @@
-# Mplayer motion vector and block type rendering
+# MPlayer motion vector and block type rendering
 
     mplayer -lavdopts vismv=1:debug=0x4000 ~/simpsons_movie_trailer.mp4
     
