@@ -10,7 +10,7 @@
 
 Arrows represent the motion vectors used to move blocks around.
 
-## References:
+## References
 
 * http://libav.org/avconv.html "vismv"
 * http://www.ffmpeg.org/ffmpeg-all.html "debug flags"
